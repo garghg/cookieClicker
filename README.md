@@ -5,5 +5,7 @@ Welcome to my replica of the infamous Cookie Clicker Game – a simple and addic
 # Flowchart of the Game
 
 <p align="center">
-  ![0ae5be29-9c1d-4565-bbc0-5a6f0d4c17a4](https://github.com/user-attachments/assets/a15ed7fd-8afc-4ee6-b15a-a4869149bc26)
+ 
 </p>
+
+ ![0ae5be29-9c1d-4565-bbc0-5a6f0d4c17a4](https://github.com/user-attachments/assets/a15ed7fd-8afc-4ee6-b15a-a4869149bc26)
