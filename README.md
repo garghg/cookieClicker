@@ -7,4 +7,4 @@ Welcome to my replica of the infamous Cookie Clicker Game – a simple and addic
 <p align="right">
   <img width="731" height="1521" src=https://github.com/garghg/PyFaceRecGUI/assets/139658164/d0ece961-ea1a-4c59-9e9a-961db701512a>
 </p>
- ![0ae5be29-9c1d-4565-bbc0-5a6f0d4c17a4](https://github.com/user-attachments/assets/6df4ebb9-d351-4744-a0db-c04f6e0995a1)
+![0ae5be29-9c1d-4565-bbc0-5a6f0d4c17a4](https://github.com/user-attachments/assets/ca8fbe5b-22d4-4262-b084-f88a44de4000)
