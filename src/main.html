@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="../CSS-files/main.css">
+        <script>
+            function randNum(){
+                var time = Math.floor(Math.random() * 5*60000) + 60000;
+                return time;
+            }
+        </script>
+        <title>Clicker Game</title>
+    </head>
+
+    <body onload="setInterval(goldenCookie, randNum())">
+        <button id="shop_name" onclick="renameShop()">Cookie Store</button>
+
+        <div id="score">
+            0 cookies
+        </div>
+
+        <button id="cookie" onclick="addCounter()">
+            <img src="../Images/cookie.png" alt="Cookie here" width="300px" height="300px" draggable="false">
+        </button>
+
+        <button id="click_upgrade" onclick="upgrade_click()">
+            <img src="../Images/cursor_upgrade.png" alt="click upgrade" width="65px" height="75px" draggable="false" style="padding-top: 20px; padding-bottom: 0px;">
+            <p id="upgrade_benefit">5 cookies/click</p>
+            <p id="upgrade_click_cost"> 500 cookies</p>
+            
+        </button>
+
+    </body>
+
+    <script src="../JS-files/main.js"></script>
+</html>
